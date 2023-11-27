@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "it-IT"
-title                    : "flackode
+title                    : "flackode"
 title_separator          : "-"
 name                     : &name "Flavio Campobasso"
 description              : &description "personal description"
