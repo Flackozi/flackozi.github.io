@@ -1,6 +1,6 @@
 ---
 title: "Foodo"
-excerpt: "This is my first academic project. An app developed in Java, javafx, that helps in cooking.<br/><img src='C:/Users/flavi/Desktop/flackozi.github.io/images/FoodoSite.png'>"
+excerpt: "This is my first academic project. An app developed in Java, javafx, that helps in cooking.<br/>images/FoodoSite.png'>"
 collection: portfolio
 ---
 
