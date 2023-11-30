@@ -16,9 +16,9 @@ Hey! I am flavio, I am a computer engineering student at the University of Rome 
 ======
 In this website, I will be mainly sharing things I am learning in my free time.
 
--System desisgn  
--Machine learning  
--and more
+- System design  
+- Machine learning  
+- and more
 
 All this resources are mainly for my own learning, but I figured It’d be good to share them in the public. In this way, I have something to keep myself in check and I can get some nice discussions going with interesting people.
 

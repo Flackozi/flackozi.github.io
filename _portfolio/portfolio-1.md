@@ -1,6 +1,6 @@
 ---
 title: "Foodo"
-excerpt: "This is my first academic project. An app developed in Java, javafx, that helps in cooking.![Descrizione dell'immagine](images/FoodoSite.png)
+excerpt: "This is my first academic project. An app developed in Java, javafx, that helps in cooking. 
 
 collection: portfolio
 ---
