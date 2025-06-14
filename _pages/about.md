@@ -10,19 +10,18 @@ color: "#ce2323"
 
 ---
 
-Hey! I am flavio, I am a computer engineering student at the University of Rome Tor Vergata. This website is about learning and sharing. Here you will find ideas, insights and notes/articles to learn something new.
+Hey! I’m Flavio, a software engineering student at the University of Rome Tor Vergata. This website is dedicated to learning and sharing. Here, you’ll find ideas, insights, and notes/articles meant to help me learn something new.
 
 <span style="color: #ce2323">What's this website about?</span>
 ======
-In this website, I will be mainly sharing things I am learning in my free time.
-
+On this website, I’ll primarily be sharing things I’m learning in my spare time.
 - System design  
 - Machine learning  
 - and more
 
-All this resources are mainly for my own learning, but I figured It’d be good to share them in the public. In this way, I have something to keep myself in check and I can get some nice discussions going with interesting people.
+These resources are mainly for my personal learning, but I thought it would be good to share them publicly. This way, I have something to keep myself accountable, and I can engage in meaningful discussions with interesting people.
 
 <span style="color: #ce2323">Blog</span>
 ======
 
-I really like writing, so I will keep a little blog where I discuss everythig about my career, and where I will write updates about all the cool things I will be learning!
+I really enjoy writing, so I’ll maintain a small blog where I discuss everything related to my career and provide updates on all the exciting things I’m learning!
